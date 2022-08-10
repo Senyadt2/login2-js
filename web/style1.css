@@ -1,0 +1,17 @@
+
+.a{
+    margin: 12px;
+    padding: 20px;
+    color: aqua;
+    background-color: azure;
+}
+.b{
+    margin: 12px;
+    padding: 20px;
+    color: aqua;
+    background-color: rgb(133, 192, 159);
+}
+    
+.a ol li{
+    text-decoration: none;
+}
